@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBschemaTool", "DBschemaTool.csproj", "{56FC9D9C-A7FA-43FC-A5AB-278DA6379A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleGen", "..\..\autoGen\OracleGen.csproj", "{3396DCC1-0CF5-48B1-93B1-402FD82F8A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FC9D9C-A7FA-43FC-A5AB-278DA6379A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FC9D9C-A7FA-43FC-A5AB-278DA6379A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FC9D9C-A7FA-43FC-A5AB-278DA6379A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FC9D9C-A7FA-43FC-A5AB-278DA6379A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3396DCC1-0CF5-48B1-93B1-402FD82F8A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3396DCC1-0CF5-48B1-93B1-402FD82F8A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3396DCC1-0CF5-48B1-93B1-402FD82F8A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3396DCC1-0CF5-48B1-93B1-402FD82F8A35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45E3CD4-3A4F-4068-8EA0-424D03DEB35C}
+	EndGlobalSection
+EndGlobal
