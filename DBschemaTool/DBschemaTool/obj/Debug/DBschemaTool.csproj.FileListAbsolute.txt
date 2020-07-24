@@ -30,3 +30,16 @@ D:\joyce\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.csproj.Core
 D:\joyce\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.csproj.CopyComplete
 D:\joyce\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.exe
 D:\joyce\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.pdb
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.csproj.CoreCompileInputs.cache
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\NLog.config
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\DBschemaTool.exe.config
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\DBschemaTool.exe
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\DBschemaTool.pdb
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\Dapper.dll
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\NLog.dll
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\Dapper.xml
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\bin\Debug\NLog.xml
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.csproj.CopyComplete
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.exe
+D:\joyce\NEW_SPM\OracleTool\DBschemaTool\DBschemaTool\obj\Debug\DBschemaTool.pdb
