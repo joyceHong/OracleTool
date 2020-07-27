@@ -381,13 +381,7 @@ end;
                     return $"{inputValue}";
                 case "datetime":
                 case "datetime?":
-                    return null;
-                //case "acur_cur":
-                //    return "acur_cur";
-                //case "al_rtncode":
-                //    return "al_rtncode"; //傳回cursor                    
-                //case "as_rtnmsg":
-                //    return "as_rtnmsg"; //傳回cursor                    
+                    return $"to_date('{inputValue} 01:00:00', 'YYYY/MM/DD HH:MI:SS')";
                 default:
                     return null;
             }

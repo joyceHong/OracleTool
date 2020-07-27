@@ -146,7 +146,7 @@ namespace DBschemaTool.Helper
                     returnStr = "string";
                     break;
                 case "DATE":
-                    returnStr = $"DateTime{isNull}";
+                    returnStr = $"datetime{isNull}";
                     break;
                 case "BLOB":
                 case "BFILE":
